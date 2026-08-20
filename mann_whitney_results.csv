@@ -1,0 +1,11 @@
+﻿metric,merged_median,closed_median,u_statistic,p_value,significant_0.05
+commit_count,2.0,2.0,865.0,0.9750249432900059,False
+changed_files,2.0,3.0,793.0,0.6911879953820086,False
+additions,23.0,80.0,813.0,0.7852557091404645,False
+deletions,4.0,9.0,796.0,0.7072696767784573,False
+changed_lines,40.0,88.0,802.5,0.738033832774448,False
+title_length,59.0,62.0,816.0,0.7998763087106621,False
+body_length,1074.0,146.0,1380.5,0.0021581706214403125,True
+commit_message_total_length,535.0,92.0,1091.0,0.17339575575308142,False
+commit_message_avg_length,210.33333333333331,79.0,1095.0,0.16607062797273753,False
+commit_message_keyword_count,0.0,1.0,641.0,0.15310544343619664,False

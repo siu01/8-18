@@ -1,0 +1,11 @@
+﻿feature,importance
+commit_message_total_length,0.17959683888983496
+title_length,0.14213471003768782
+commit_message_keyword_count,0.12035779722788237
+body_length,0.11679470631032644
+commit_message_avg_length,0.10189098061979343
+deletions,0.08628523667469454
+changed_lines,0.08085524333388253
+additions,0.07676038663542058
+changed_files,0.05312250110342777
+commit_count,0.04220159916704946

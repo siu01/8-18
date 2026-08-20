@@ -12,8 +12,6 @@ from github import Github, Auth
 # 分析対象のGitHubリポジトリ
 REPOSITORY = "apache/lucene"
 
-# 課題では100件以上必要なので200件取得する
-# 時間がかかる場合は100や150に変更してもよい
 TARGET_COUNT = 200
 
 # 最終的に保存するCSV
@@ -27,7 +25,6 @@ OUTPUT_FILE = "pr_dataset.csv"
 # .envファイルを読み込む
 load_dotenv()
 
-# .envからGitHub Personal Access Tokenを取得
 token = os.getenv("GITHUB_TOKEN")
 
 if not token:
